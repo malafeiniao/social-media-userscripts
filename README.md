@@ -6,3 +6,4 @@
 
 - [微信公众号封面提取器](wechat/wechat-cover-extractor.user.js)：提取公众号文章的 1:1 和 2.35:1 封面，支持预览、复制链接和下载，可按文章标题或发布日期命名保存。
 - [公众号文章数据一站抓取](wechat/wechat-article-stats-grabber.user.js)：在公众号后台批量采集文章基础及详情指标，支持本地文章库、增量更新、标签筛选、自定义列、复制导出和完整备份。
+- [B站稿件数据采集](bilibili/bilibili-video-stats-grabber.user.js)：在 B 站创作中心批量采集视频稿件的基础及详情指标，支持增量更新、断点续抓、按账号保存、标签筛选、自定义列、CSV 导出和完整备份。
